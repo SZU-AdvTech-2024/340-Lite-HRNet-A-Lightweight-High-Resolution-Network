@@ -1,0 +1,8 @@
+@inproceedings{REPO340,
+    author = "Yu, Changqian and Xiao, Bin and Gao, Changxin and Yuan, Lu and Zhang, Lei and Sang, Nong and Wang, Jingdong",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "10440-10450",
+    title = "{Lite-HRNet: A Lightweight High-Resolution Network}",
+    year = "2021"
+}
